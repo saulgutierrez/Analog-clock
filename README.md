@@ -7,3 +7,6 @@ Technologies used:
 <li>HTML</li>
 <li>Bootstrap</li>
 <li>Vanilla JS</li>
+
+![image](https://github.com/saulgutierrez/Analog-clock/assets/62368834/2d4b4b6c-702b-4849-aabb-21e4c2833ebc)
+
